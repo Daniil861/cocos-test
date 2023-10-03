@@ -6,6 +6,7 @@ export class Button extends Component {
 
 	onLoad() {
 		this.initListeners();
+		console.log('New comment');
 	}
 
 	initListeners() {

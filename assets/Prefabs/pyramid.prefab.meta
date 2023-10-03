@@ -2,12 +2,12 @@
   "ver": "1.1.45",
   "importer": "prefab",
   "imported": true,
-  "uuid": "5bff2ad6-5b85-48dc-88bb-197a1931b1e6",
+  "uuid": "c672b7d7-d189-4e07-9c73-4b424b3cf919",
   "files": [
     ".json"
   ],
   "subMetas": {},
   "userData": {
-    "syncNodeName": "main-image"
+    "syncNodeName": "pyramid"
   }
 }
