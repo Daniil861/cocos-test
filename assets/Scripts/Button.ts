@@ -6,7 +6,8 @@ export class Button extends Component {
 
 	onLoad() {
 		this.initListeners();
-		console.log('New comment');
+		console.log('New comment 2');
+		console.log('Add pyramid');
 	}
 
 	initListeners() {
