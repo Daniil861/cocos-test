@@ -253,7 +253,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 360.307,
+      "y": 6.311,
       "z": 0
     },
     "_lrot": {
@@ -357,7 +357,7 @@
     "_top": -23.57099999999997,
     "_bottom": -23.57099999999997,
     "_horizontalCenter": 0,
-    "_verticalCenter": 360.307,
+    "_verticalCenter": 6.311,
     "_isAbsLeft": true,
     "_isAbsRight": true,
     "_isAbsTop": true,
@@ -1138,8 +1138,8 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 186.261,
-      "y": 38.787,
+      "x": 33.248,
+      "y": -146.256,
       "z": 0
     },
     "_lrot": {
