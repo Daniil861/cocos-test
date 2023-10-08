@@ -1,8 +1,13 @@
 import { _decorator, Component, Node, input, Input, tween, Vec3 } from 'cc';
 const { ccclass, property } = _decorator;
 
+import { listenEvent } from './services/utils';
+
 @ccclass('Button')
 export class Button extends Component {
+
+	private a: number = 73;
+	private secret: string = 'it is friday today';
 
 	onLoad() {
 		this.initListeners();
@@ -15,6 +20,15 @@ export class Button extends Component {
 		this.node.on(Node.EventType.MOUSE_ENTER, () => {
 			console.log('Навели на кнопку');
 			this.hoverEffectIn();
+
+			// Так мы объявляем кастомное событие
+			// SocketHub.emit('MOUSE_ENTER-CUSTOM', 'my info - today is friday');
+			SocketHub.emit('MOUSE_ENTER-CUSTOM', { a: this.a, secret: this.secret });
+		})
+
+		// так слушаем кастомное событие
+		listenEvent('MOUSE_ENTER-CUSTOM', ({ a, secret }) => {
+			console.log(`Выводим этот текст - ${a} ${secret}`);
 		})
 
 		// Слушаем и клик на всех устройствах
