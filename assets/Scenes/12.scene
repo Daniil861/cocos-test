@@ -319,7 +319,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "bg",
+    "_name": "bg-2",
     "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": {
@@ -338,8 +338,8 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 51,
-      "y": 82,
+      "x": 192.741,
+      "y": 51.267,
       "z": 0
     },
     "_lrot": {
@@ -363,7 +363,7 @@
       "y": 0,
       "z": 0
     },
-    "_id": "37P52YyklCR5DsGzO/UlkS"
+    "_id": "f9wckRbK1J6r1O3BtUJ9jq"
   },
   {
     "__type__": "cc.UITransform",
@@ -385,7 +385,7 @@
       "x": 0.5,
       "y": 0.5
     },
-    "_id": "cb0k10YE1F47rpz1aI/dKr"
+    "_id": "03gNDq/t5EXrWYizHGJB6u"
   },
   {
     "__type__": "cc.Sprite",
@@ -408,7 +408,7 @@
       "a": 255
     },
     "_spriteFrame": {
-      "__uuid__": "7f8b2210-38a2-4d23-a3f7-960de1523235@f9941",
+      "__uuid__": "c3d5923f-88b7-44fa-99d8-54a737027063@f9941",
       "__expectedType__": "cc.SpriteFrame"
     },
     "_type": 0,
@@ -424,7 +424,7 @@
     "_isTrimmedMode": true,
     "_useGrayscale": false,
     "_atlas": null,
-    "_id": "06q8pfMIlJM50Sz08GWfBO"
+    "_id": "0d/E18hZdDnYV4P3B3gVfx"
   },
   {
     "__type__": "cc.UITransform",
