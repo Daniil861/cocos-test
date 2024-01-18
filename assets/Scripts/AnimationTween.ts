@@ -6,7 +6,7 @@ export class AnimationTween extends Component {
 
 
 	startAnimation() {
-		console.log('s123');
+		console.log('s123456');
 		tween(this.node)
 			.by(1, {
 				position: new Vec3(100, 0, 0)
