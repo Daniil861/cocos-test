@@ -1,0 +1,153 @@
+
+Symbol_Lion.png
+size: 624,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 154, 5
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Border_1
+  rotate: true
+  xy: 13, 3
+  size: 152, 8
+  orig: 154, 10
+  offset: 1, 1
+  index: -1
+Hair_top
+  rotate: false
+  xy: 429, 10
+  size: 85, 46
+  orig: 85, 46
+  offset: 0, 0
+  index: -1
+adot2
+  rotate: false
+  xy: 532, 6
+  size: 12, 12
+  orig: 15, 15
+  offset: 1, 2
+  index: -1
+bg_light
+  rotate: false
+  xy: 372, 3
+  size: 55, 53
+  orig: 63, 61
+  offset: 4, 4
+  index: -1
+boddy
+  rotate: false
+  xy: 43, 4
+  size: 109, 151
+  orig: 109, 151
+  offset: 0, 0
+  index: -1
+border4
+  rotate: false
+  xy: 23, 3
+  size: 8, 152
+  orig: 10, 154
+  offset: 1, 1
+  index: -1
+border4 copy 2
+  rotate: false
+  xy: 552, 85
+  size: 70, 70
+  orig: 72, 72
+  offset: 1, 1
+  index: -1
+border_2
+  rotate: false
+  xy: 2, 3
+  size: 9, 152
+  orig: 11, 154
+  offset: 1, 1
+  index: -1
+border_3
+  rotate: true
+  xy: 33, 3
+  size: 152, 8
+  orig: 154, 10
+  offset: 1, 1
+  index: -1
+ear
+  rotate: true
+  xy: 516, 20
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 462, 61
+  size: 94, 88
+  orig: 94, 88
+  offset: 0, 0
+  index: -1
+gl
+  rotate: false
+  xy: 516, 3
+  size: 14, 15
+  orig: 16, 17
+  offset: 1, 1
+  index: -1
+gl2
+  rotate: true
+  xy: 352, 14
+  size: 20, 18
+  orig: 22, 20
+  offset: 1, 1
+  index: -1
+hair_side
+  rotate: true
+  xy: 556, 25
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+hair_side2
+  rotate: false
+  xy: 306, 36
+  size: 60, 119
+  orig: 60, 119
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: true
+  xy: 368, 58
+  size: 97, 92
+  orig: 97, 92
+  offset: 0, 0
+  index: -1
+pov1
+  rotate: true
+  xy: 331, 12
+  size: 22, 19
+  orig: 23, 21
+  offset: 1, 1
+  index: -1
+pov2
+  rotate: false
+  xy: 306, 4
+  size: 23, 30
+  orig: 23, 31
+  offset: 0, 1
+  index: -1
+pupil
+  rotate: true
+  xy: 331, 2
+  size: 8, 7
+  orig: 10, 9
+  offset: 1, 1
+  index: -1
+pupil2
+  rotate: false
+  xy: 352, 3
+  size: 9, 9
+  orig: 11, 11
+  offset: 1, 1
+  index: -1

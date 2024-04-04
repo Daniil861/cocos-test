@@ -1,0 +1,167 @@
+
+Symbol_Elephant.png
+size: 475,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 19
+  size: 152, 152
+  orig: 154, 154
+  offset: 1, 1
+  index: -1
+Border_1
+  rotate: false
+  xy: 245, 84
+  size: 152, 8
+  orig: 154, 10
+  offset: 1, 1
+  index: -1
+Brow_2
+  rotate: true
+  xy: 422, 21
+  size: 20, 7
+  orig: 22, 9
+  offset: 1, 1
+  index: -1
+Head
+  rotate: false
+  xy: 356, 94
+  size: 79, 77
+  orig: 81, 79
+  offset: 1, 1
+  index: -1
+boddy
+  rotate: false
+  xy: 156, 72
+  size: 87, 99
+  orig: 89, 101
+  offset: 1, 1
+  index: -1
+border4
+  rotate: true
+  xy: 245, 74
+  size: 8, 152
+  orig: 10, 154
+  offset: 1, 1
+  index: -1
+border_2
+  rotate: true
+  xy: 2, 8
+  size: 9, 152
+  orig: 11, 154
+  offset: 1, 1
+  index: -1
+border_3
+  rotate: false
+  xy: 268, 2
+  size: 152, 8
+  orig: 154, 10
+  offset: 1, 1
+  index: -1
+brow_1
+  rotate: true
+  xy: 431, 27
+  size: 10, 5
+  orig: 12, 7
+  offset: 1, 1
+  index: -1
+cheek
+  rotate: true
+  xy: 399, 60
+  size: 32, 35
+  orig: 34, 37
+  offset: 1, 1
+  index: -1
+ear_1
+  rotate: true
+  xy: 268, 12
+  size: 60, 94
+  orig: 62, 96
+  offset: 1, 1
+  index: -1
+ear_2
+  rotate: true
+  xy: 156, 4
+  size: 66, 110
+  orig: 68, 112
+  offset: 1, 1
+  index: -1
+gl1
+  rotate: false
+  xy: 383, 61
+  size: 11, 11
+  orig: 13, 13
+  offset: 1, 1
+  index: -1
+gl2
+  rotate: false
+  xy: 364, 58
+  size: 17, 14
+  orig: 19, 16
+  offset: 1, 1
+  index: -1
+mouth
+  rotate: false
+  xy: 442, 2
+  size: 19, 35
+  orig: 21, 37
+  offset: 1, 1
+  index: -1
+pov_1
+  rotate: false
+  xy: 422, 43
+  size: 11, 15
+  orig: 13, 17
+  offset: 1, 1
+  index: -1
+pov_2
+  rotate: true
+  xy: 422, 4
+  size: 15, 18
+  orig: 17, 20
+  offset: 1, 1
+  index: -1
+shadow_ear
+  rotate: true
+  xy: 437, 72
+  size: 44, 36
+  orig: 46, 38
+  offset: 1, 1
+  index: -1
+trunk
+  rotate: true
+  xy: 245, 94
+  size: 77, 109
+  orig: 79, 111
+  offset: 1, 1
+  index: -1
+tusk
+  rotate: true
+  xy: 436, 39
+  size: 31, 36
+  orig: 33, 38
+  offset: 1, 1
+  index: -1
+tusk2
+  rotate: false
+  xy: 437, 118
+  size: 30, 53
+  orig: 32, 55
+  offset: 1, 1
+  index: -1
+zr_1
+  rotate: false
+  xy: 463, 22
+  size: 6, 6
+  orig: 8, 8
+  offset: 1, 1
+  index: -1
+zr_2
+  rotate: false
+  xy: 463, 30
+  size: 7, 7
+  orig: 9, 9
+  offset: 1, 1
+  index: -1

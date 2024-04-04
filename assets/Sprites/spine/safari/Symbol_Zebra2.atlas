@@ -1,0 +1,90 @@
+
+Symbol_Zebra2.png
+size: 392,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2, 6
+  size: 148, 149
+  orig: 150, 151
+  offset: 1, 1
+  index: -1
+Border_1
+  rotate: true
+  xy: 372, 2
+  size: 152, 8
+  orig: 154, 10
+  offset: 1, 1
+  index: -1
+border4
+  rotate: false
+  xy: 382, 2
+  size: 8, 152
+  orig: 10, 154
+  offset: 1, 1
+  index: -1
+border_2
+  rotate: false
+  xy: 361, 2
+  size: 9, 152
+  orig: 11, 154
+  offset: 1, 1
+  index: -1
+border_3
+  rotate: false
+  xy: 153, 6
+  size: 152, 8
+  orig: 154, 10
+  offset: 1, 1
+  index: -1
+ear
+  rotate: true
+  xy: 153, 16
+  size: 33, 39
+  orig: 35, 41
+  offset: 1, 1
+  index: -1
+ear_2
+  rotate: true
+  xy: 320, 5
+  size: 9, 26
+  orig: 11, 28
+  offset: 1, 1
+  index: -1
+gl
+  rotate: false
+  xy: 307, 4
+  size: 11, 10
+  orig: 13, 12
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 289, 53
+  size: 101, 70
+  orig: 103, 72
+  offset: 1, 1
+  index: -1
+hear
+  rotate: false
+  xy: 289, 16
+  size: 63, 35
+  orig: 65, 37
+  offset: 1, 1
+  index: -1
+neek
+  rotate: true
+  xy: 153, 51
+  size: 103, 134
+  orig: 105, 136
+  offset: 1, 1
+  index: -1
+zr
+  rotate: false
+  xy: 354, 46
+  size: 4, 5
+  orig: 6, 7
+  offset: 1, 1
+  index: -1

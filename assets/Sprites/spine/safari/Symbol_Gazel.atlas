@@ -1,0 +1,41 @@
+
+Symbol_Gazel.png
+size: 197,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Border_1
+  rotate: true
+  xy: 167, 2
+  size: 152, 8
+  orig: 154, 10
+  offset: 1, 1
+  index: -1
+Gazel
+  rotate: false
+  xy: 2, 2
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+border4
+  rotate: false
+  xy: 177, 2
+  size: 8, 152
+  orig: 10, 154
+  offset: 1, 1
+  index: -1
+border_2
+  rotate: false
+  xy: 156, 2
+  size: 9, 152
+  orig: 11, 154
+  offset: 1, 1
+  index: -1
+border_3
+  rotate: true
+  xy: 187, 2
+  size: 152, 8
+  orig: 154, 10
+  offset: 1, 1
+  index: -1

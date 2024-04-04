@@ -1,0 +1,202 @@
+
+Wild6.png
+size: 875,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BLICK
+  rotate: false
+  xy: 592, 27
+  size: 111, 78
+  orig: 113, 87
+  offset: 1, 5
+  index: -1
+G_head
+  rotate: true
+  xy: 784, 29
+  size: 116, 74
+  orig: 116, 74
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 23, 5
+  size: 43, 90
+  orig: 45, 92
+  offset: 1, 1
+  index: -1
+Layer 3
+  rotate: false
+  xy: 505, 4
+  size: 28, 91
+  orig: 31, 93
+  offset: 2, 1
+  index: -1
+Layer 4
+  rotate: false
+  xy: 432, 4
+  size: 71, 91
+  orig: 73, 93
+  offset: 1, 1
+  index: -1
+Parot_wing
+  rotate: true
+  xy: 283, 3
+  size: 92, 147
+  orig: 92, 147
+  offset: 0, 0
+  index: -1
+Parrot_boddy
+  rotate: true
+  xy: 97, 57
+  size: 210, 57
+  orig: 210, 57
+  offset: 0, 0
+  index: -1
+adot2
+  rotate: false
+  xy: 258, 83
+  size: 12, 12
+  orig: 15, 15
+  offset: 1, 2
+  index: -1
+back
+  rotate: false
+  xy: 231, 97
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+banana
+  rotate: false
+  xy: 809, 160
+  size: 54, 39
+  orig: 56, 41
+  offset: 1, 1
+  index: -1
+bg_light
+  rotate: false
+  xy: 115, 2
+  size: 55, 53
+  orig: 63, 61
+  offset: 4, 4
+  index: -1
+clowd
+  rotate: true
+  xy: 2, 50
+  size: 217, 93
+  orig: 228, 93
+  offset: 0, 0
+  index: -1
+g_aye
+  rotate: true
+  xy: 231, 69
+  size: 26, 25
+  orig: 30, 29
+  offset: 2, 2
+  index: -1
+g_ear
+  rotate: false
+  xy: 592, 6
+  size: 41, 19
+  orig: 43, 25
+  offset: 1, 4
+  index: -1
+g_ear2
+  rotate: true
+  xy: 635, 7
+  size: 18, 35
+  orig: 20, 37
+  offset: 1, 1
+  index: -1
+g_jaw
+  rotate: true
+  xy: 2, 3
+  size: 45, 19
+  orig: 49, 22
+  offset: 2, 2
+  index: -1
+g_neek
+  rotate: true
+  xy: 172, 3
+  size: 63, 109
+  orig: 63, 109
+  offset: 0, 0
+  index: -1
+generated_image
+  rotate: false
+  xy: 535, 5
+  size: 55, 90
+  orig: 57, 93
+  offset: 1, 1
+  index: -1
+gor_t
+  rotate: true
+  xy: 661, 143
+  size: 124, 107
+  orig: 124, 107
+  offset: 0, 0
+  index: -1
+hand_gor_1
+  rotate: true
+  xy: 661, 107
+  size: 34, 121
+  orig: 34, 121
+  offset: 0, 0
+  index: -1
+hand_gor_2
+  rotate: false
+  xy: 770, 147
+  size: 37, 120
+  orig: 37, 120
+  offset: 0, 0
+  index: -1
+head_gor
+  rotate: false
+  xy: 705, 3
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+leaf
+  rotate: true
+  xy: 809, 201
+  size: 66, 28
+  orig: 71, 31
+  offset: 0, 1
+  index: -1
+leaf)all
+  rotate: false
+  xy: 156, 68
+  size: 73, 199
+  orig: 79, 199
+  offset: 6, 0
+  index: -1
+leg_gor_1
+  rotate: true
+  xy: 705, 56
+  size: 49, 74
+  orig: 49, 74
+  offset: 0, 0
+  index: -1
+leg_gor_2
+  rotate: false
+  xy: 839, 205
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+parrot_wing2
+  rotate: true
+  xy: 573, 107
+  size: 160, 86
+  orig: 160, 86
+  offset: 0, 0
+  index: -1
+ramka
+  rotate: true
+  xy: 403, 97
+  size: 170, 168
+  orig: 170, 170
+  offset: 0, 1
+  index: -1

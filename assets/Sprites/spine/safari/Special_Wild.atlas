@@ -1,0 +1,146 @@
+
+Special_Wild.png
+size: 1152,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BLICK
+  rotate: true
+  xy: 974, 55
+  size: 111, 78
+  orig: 113, 87
+  offset: 1, 5
+  index: -1
+Layer 2
+  rotate: false
+  xy: 1084, 77
+  size: 43, 90
+  orig: 45, 92
+  offset: 1, 1
+  index: -1
+Layer 3
+  rotate: false
+  xy: 1054, 76
+  size: 28, 91
+  orig: 31, 93
+  offset: 2, 1
+  index: -1
+Layer 4
+  rotate: false
+  xy: 1079, 239
+  size: 71, 91
+  orig: 73, 93
+  offset: 1, 1
+  index: -1
+adot2
+  rotate: false
+  xy: 556, 146
+  size: 12, 12
+  orig: 15, 15
+  offset: 1, 2
+  index: -1
+back
+  rotate: false
+  xy: 556, 160
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+bg_light
+  rotate: true
+  xy: 1061, 19
+  size: 55, 53
+  orig: 63, 61
+  offset: 4, 4
+  index: -1
+blue
+  rotate: false
+  xy: 780, 18
+  size: 95, 140
+  orig: 97, 142
+  offset: 1, 1
+  index: -1
+generated_image
+  rotate: true
+  xy: 995, 169
+  size: 55, 90
+  orig: 57, 93
+  offset: 1, 1
+  index: -1
+giraffe
+  rotate: false
+  xy: 654, 7
+  size: 124, 151
+  orig: 126, 152
+  offset: 0, 1
+  index: -1
+gold_lamp
+  rotate: false
+  xy: 366, 141
+  size: 188, 189
+  orig: 190, 191
+  offset: 1, 1
+  index: -1
+gorilla
+  rotate: false
+  xy: 366, 6
+  size: 127, 133
+  orig: 127, 133
+  offset: 0, 0
+  index: -1
+green
+  rotate: false
+  xy: 877, 19
+  size: 95, 139
+  orig: 97, 141
+  offset: 1, 1
+  index: -1
+parrot
+  rotate: false
+  xy: 495, 12
+  size: 157, 127
+  orig: 160, 129
+  offset: 1, 1
+  index: -1
+pointer
+  rotate: false
+  xy: 1023, 4
+  size: 36, 49
+  orig: 38, 52
+  offset: 1, 1
+  index: -1
+ramka
+  rotate: true
+  xy: 728, 160
+  size: 170, 168
+  orig: 170, 170
+  offset: 0, 1
+  index: -1
+red
+  rotate: true
+  xy: 898, 168
+  size: 162, 95
+  orig: 164, 97
+  offset: 1, 1
+  index: -1
+round
+  rotate: true
+  xy: 995, 226
+  size: 104, 82
+  orig: 131, 160
+  offset: 27, 40
+  index: -1
+shine_back
+  rotate: false
+  xy: 2, 2
+  size: 362, 328
+  orig: 378, 337
+  offset: 7, 9
+  index: -1
+wood
+  rotate: true
+  xy: 974, 4
+  size: 49, 47
+  orig: 51, 51
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,97 @@
+
+Symbol_Lion3.png
+size: 234,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hair_top
+  rotate: true
+  xy: 101, 29
+  size: 85, 46
+  orig: 85, 46
+  offset: 0, 0
+  index: -1
+boddy
+  rotate: false
+  xy: 2, 116
+  size: 109, 151
+  orig: 109, 151
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 149, 15
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 113, 179
+  size: 94, 88
+  orig: 94, 88
+  offset: 0, 0
+  index: -1
+gl
+  rotate: false
+  xy: 190, 38
+  size: 14, 15
+  orig: 16, 17
+  offset: 1, 1
+  index: -1
+gl2
+  rotate: false
+  xy: 2, 2
+  size: 20, 18
+  orig: 22, 20
+  offset: 1, 1
+  index: -1
+hair_side
+  rotate: false
+  xy: 149, 55
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+hair_side2
+  rotate: true
+  xy: 113, 117
+  size: 60, 119
+  orig: 60, 119
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 2, 22
+  size: 97, 92
+  orig: 97, 92
+  offset: 0, 0
+  index: -1
+pov1
+  rotate: false
+  xy: 209, 96
+  size: 22, 19
+  orig: 23, 21
+  offset: 1, 1
+  index: -1
+pov2
+  rotate: false
+  xy: 209, 237
+  size: 23, 30
+  orig: 23, 31
+  offset: 0, 1
+  index: -1
+pupil
+  rotate: false
+  xy: 24, 2
+  size: 8, 7
+  orig: 10, 9
+  offset: 1, 1
+  index: -1
+pupil2
+  rotate: false
+  xy: 24, 11
+  size: 9, 9
+  orig: 11, 11
+  offset: 1, 1
+  index: -1

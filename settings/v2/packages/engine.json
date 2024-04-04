@@ -145,6 +145,12 @@
       "value": false,
       "version": ""
     },
-    "flags": {}
+    "flags": {},
+    "proxy": {
+      "/resources": {
+        "target": "db://",
+        "changeOrigin": true
+      }
+    }
   }
 }
