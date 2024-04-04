@@ -1,7 +1,7 @@
 import { _decorator, Component, Node, input, Input, tween, Vec3 } from 'cc';
 const { ccclass, property } = _decorator;
 
-import { listenEvent } from './Services/utils';
+import { listenEvent } from './services/utils';
 
 @ccclass('Button')
 export class Button extends Component {
